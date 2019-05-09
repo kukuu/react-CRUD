@@ -20,9 +20,9 @@ CREATE, READ, UPDATE and DESTROY.
 
 ## Tech
 
-- https://github.com/kukuu/react-CRUD/blob/master/docs/diagram.png
-
 ### Architecture 
+
+- https://github.com/kukuu/react-CRUD/blob/master/docs/diagram.png
 
 ### ReactJS CRUD uses:
 
