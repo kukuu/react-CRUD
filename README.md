@@ -1,4 +1,4 @@
-# ReactJS CRUD
+# ReactJS CRUD operations
 
 ## Author
 Alexander Adu-Sarkodie
