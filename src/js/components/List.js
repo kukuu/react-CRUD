@@ -31,7 +31,7 @@ export default class List extends React.Component {
     return (
       <div className="panel">
         <p className="panel-heading">
-          List
+          Zoopla Listings
         </p>
         <div className="panel-block has-text-centered">
           {(function() {
@@ -39,9 +39,9 @@ export default class List extends React.Component {
               return <table className="table">
                        <thead>
                          <tr>
-                           <th>First Name</th>
-                           <th>Last Name</th>
-                           <th>Sex</th>
+                           <th>Address</th>
+                           <th>Post Code</th>
+                           <th>Number of bedrooms</th>
                            <th></th>
                          </tr>
                        </thead>
@@ -51,7 +51,7 @@ export default class List extends React.Component {
                      </table>;
             }
           })()}
-          <a className="button is-link" onClick={this._handleAddUser}>create a user</a>
+          <a className="button is-link" onClick={this._handleAddUser}>create a profile</a>
         </div>
       </div>
     );
