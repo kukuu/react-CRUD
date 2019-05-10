@@ -56,7 +56,7 @@ class Form extends React.Component {
           <section className="modal-card-body">
             <TextField label="Address" name="first_name" value={this.state.data.first_name} errors={this.state.errors['first_name']} />
             <TextField label="Post Code" name="last_name" value={this.state.data.last_name}  errors={this.state.errors['last_name']} />
-            <SelectField label="Nimber of bedrooms" name="sex" value={this.state.data.sex} errors={this.state.errors['sex']}>
+            <SelectField label="Number of bedrooms" name="sex" value={this.state.data.sex} errors={this.state.errors['sex']}>
               <option value="">- Select -</option>
               <option value="1">1</option>
               <option value="2">2</option>
