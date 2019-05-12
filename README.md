@@ -60,7 +60,7 @@ $ npm run bundle
 
 3. De-fresh
 
-4. Add image selection/deletion
+4. Add image to model
 
 5. Additional fields
 
