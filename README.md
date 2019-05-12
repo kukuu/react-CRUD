@@ -56,7 +56,7 @@ $ npm run bundle
 ```
 1. Add hot reload
 
-2. Reduxify
+2. Reduxify from FLUX
 
 3. De-fresh
 
@@ -64,12 +64,8 @@ $ npm run bundle
 
 5. Additional fields
 
-		* Number of bedrooms
-		* Postcode
-		* Address
 		* Description
 		* Price
-		* Expired
 
 6. MongoDB Connection
 
