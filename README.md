@@ -33,7 +33,7 @@ CREATE, READ, UPDATE and DESTROY.
 ## Installation
 
 ```sh
-$ git clone git@github.com:llopez/Crud.react.git
+$ git clone https://github.com/kukuu/react-CRUD
 $ cd Crud.react
 $ npm install
 ```
@@ -60,7 +60,7 @@ $ npm run bundle
 
 3. De-fresh
 
-4. Add image to model
+4. Add images to model
 
 5. Additional fields
 
