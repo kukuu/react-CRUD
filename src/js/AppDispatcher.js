@@ -1,5 +1,7 @@
 import { Dispatcher } from 'flux';
 
-const AppDispatcher = new Dispatcher(); //Instantiate Despatcher
+//Instantiate Dispatcher
+//All Actions route through Dispatcher in FLUX. 
+const AppDispatcher = new Dispatcher(); 
 
 export default AppDispatcher;
